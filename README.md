@@ -33,14 +33,7 @@
 ### 🛠️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,go,django,flask,react,js,bootstrap,git,linux,opencv,pandas,sklearn,tensorflow,sqlite,arduino,figma,ps&theme=dark" />
-</p>
-
----
-
-### 🚀 Featured Projects  
-- 🏥 **Medicare** – Healthcare web app with Flask & REST APIs  
-- 🔍 **Women Safety Video Analysis** – Real-time AI-powered detection system  
-- 🌱 **Carbon Footprint Tracker** – Hackathon project for sustainable shopping  
+</p> 
 
 ---
 
