@@ -53,8 +53,19 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suke2004&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suke2004&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suke2004&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suke2004&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suke2004&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📊 Languages Usage (Pie Chart)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suke2004&theme=tokyonight&layout=pie" alt="Languages Pie Chart" />
 </p>
 
 <p align="center">
