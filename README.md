@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/title.svg" width="100%" alt="SUKE2004 - Arcade Profile - Press Start" />
+<img src="assets/title.svg" width="100%" alt="SUKE2004 arcade title screen - press start" />
 
 <a href="https://linkedin.com/in/sukesh-reddy-ustela" target="_blank">
   <img src="https://img.shields.io/badge/1UP-LINKEDIN-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000&color=0d1117" />
@@ -24,7 +24,7 @@
 
 <img src="assets/hdr-skills.svg" width="100%" alt="Stage 2 - Skill Tree" />
 
-<img src="assets/skills.svg" width="100%" alt="Skill tree: Backend and Systems main spec, Data Science academy, Web side spec" />
+<img src="assets/skills.svg" width="100%" alt="Skill tree with animated energy bars" />
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 <img src="assets/hdr-quests.svg" width="100%" alt="Stage 3 - Quest Log" />
 
 <a href="https://github.com/Suke2004/atlas-go">
-  <img src="assets/quest-main.svg" width="100%" alt="Main quest: Atlas - a self-hosted personal operating system in Go" />
+  <img src="assets/quest-main.svg" width="100%" alt="Main quest: Atlas - self-hosted personal operating system in Go" />
 </a>
 
 <div align="center">
@@ -57,27 +57,23 @@
 
 </div>
 
+<img src="assets/marquee.svg" width="100%" alt="scrolling ticker" />
+
 <br>
 
 <img src="assets/hdr-scores.svg" width="100%" alt="Stage 4 - High Scores" />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Suke2004/Suke2004/stats-output/stats.svg" height="150" alt="stats" />
-  <img src="https://raw.githubusercontent.com/Suke2004/Suke2004/languages-output/languages.svg" height="150" alt="languages" />
+  <img src="https://raw.githubusercontent.com/Suke2004/Suke2004/stats-output/stats.svg" height="160" alt="stats" />
+  <img src="https://raw.githubusercontent.com/Suke2004/Suke2004/languages-output/languages.svg" height="160" alt="languages" />
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suke2004&theme=tokyonight" alt="Save file" width="100%" />
-      </td>
-      <td valign="top" width="50%">
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suke2004&theme=tokyonight" alt="XP per language" width="100%" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suke2004&theme=tokyo-night&hide_border=true" width="100%" alt="XP gain history" />
+  <img src="https://streak-stats.demolab.com/?user=Suke2004&background=000000&border=00ff41&ring=00ff41&fire=ffe600&currStreakLabel=00ff41&sideLabels=00e5ff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="streak - consecutive days played" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suke2004&bg_color=000000&color=00ff41&line=00ff41&point=ffe600&area=true&hide_border=false" width="100%" alt="XP gain history" />
 </div>
 
 <br>
@@ -97,7 +93,7 @@
 <img src="assets/hdr-trophy.svg" width="100%" alt="Stage 5 - Trophy Room" />
 
 <p align="center"> 
-  <img src="https://trophy.ryglcloud.net/?username=Suke2004&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Suke2004&theme=matrix&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 <br>
@@ -112,4 +108,4 @@
 
 <br>
 
-<img src="assets/footer.svg" width="100%" alt="Game over - thanks for playing - (c) 2026 Suke2004" />
+<img src="assets/footer.svg" width="100%" alt="Game over - thanks for playing" />

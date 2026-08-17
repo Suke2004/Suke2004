@@ -22,7 +22,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false
+          options: username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=false&bg_color=000000&title_color=00ff41&text_color=00e5ff&border_color=00ff41
           path: dist/languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
