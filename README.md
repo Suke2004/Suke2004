@@ -1,73 +1,88 @@
-<h1 align="center">Hi there, I'm Ustela Sukesh Reddy 👋</h1>
-<h3 align="center">🚀 Data Science Student | Open Source Enthusiast | Problem Solver</h3>
+<div align="center">
 
-<p align="center">
-  <i>"Turning data into insights and coffee into code."</i>
-</p>
+<img src="assets/title.svg" width="100%" alt="SUKE2004 - Arcade Profile - Press Start" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/sukesh-reddy-ustela" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/ustelasukeshreddy" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="mailto:lyricsofsongs96@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/sukesh-reddy-ustela" target="_blank">
+  <img src="https://img.shields.io/badge/1UP-LINKEDIN-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000&color=0d1117" />
+</a>
+<a href="https://kaggle.com/ustelasukeshreddy" target="_blank">
+  <img src="https://img.shields.io/badge/2UP-KAGGLE-00e5ff?style=for-the-badge&logo=kaggle&logoColor=00e5ff&labelColor=000000&color=0d1117" />
+</a>
+<a href="mailto:lyricsofsongs96@gmail.com">
+  <img src="https://img.shields.io/badge/CO--OP-EMAIL-ffe600?style=for-the-badge&logo=gmail&logoColor=ffe600&labelColor=000000&color=0d1117" />
+</a>
 
----
+</div>
 
-### 👨‍💻 About Me
+<br>
 
-- 🔭 I’m currently working on **Data Science & Golang Projects**.
-- 🌱 I’m currently learning **Advanced Machine Learning & System Design**.
-- 👯 I’m looking to collaborate on **Open Source Go & Python libraries**.
-- 💬 Ask me about **Python, Go, Linux, and Computer Vision**.
+<img src="assets/hdr-player.svg" width="100%" alt="Stage 1 - Character Select" />
 
----
+<img src="assets/player.svg" width="100%" alt="Player card: Backend Developer (Go), Data Science Student, SuperPlugs guild" />
 
-### 🛠️ Technical Arsenal
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,cpp,c,js,react,django,flask&theme=dark" alt="Languages & Frameworks" />
+<img src="assets/hdr-skills.svg" width="100%" alt="Stage 2 - Skill Tree" />
 
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,opencv,linux,git,docker,sqlite,figma&theme=dark" alt="Tools & Ops" />
-</p>
-
----
-
-### 📊 GitHub Analytics
+<img src="assets/skills.svg" width="100%" alt="Skill tree: Backend and Systems main spec, Data Science academy, Web side spec" />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Suke2004/Suke2004/stats-output/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/Suke2004/Suke2004/languages-output/languages.svg" height="150" alt="languages graph" />
+
+<img src="https://skillicons.dev/icons?i=go,htmx,sqlite,docker,linux,bash,git&theme=dark" alt="Backend loadout" />
+<br>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,opencv&theme=dark" alt="ML loadout" />
+<br>
+<img src="https://skillicons.dev/icons?i=ts,js,react,django,flask,cpp,c&theme=dark" alt="Web loadout" />
+
+</div>
+
+<br>
+
+<img src="assets/hdr-quests.svg" width="100%" alt="Stage 3 - Quest Log" />
+
+<a href="https://github.com/Suke2004/atlas-go">
+  <img src="assets/quest-main.svg" width="100%" alt="Main quest: Atlas - a self-hosted personal operating system in Go" />
+</a>
+
+<div align="center">
+
+| | SIDE QUEST | OBJECTIVE | LOOT |
+|:---:|---|---|---|
+| `ACTIVE` | [SUPERTUNNEL](https://github.com/SuperPlugs/SuperTunnel) | Ship a browser-based VPN controller with the SuperPlugs guild | TypeScript |
+| `ACTIVE` | [SUPERDRIBBLE](https://github.com/SuperPlugs/SuperDribble) | Craft an audio amplifier extension for web browsers | TypeScript |
+| `CLEAR!` | [LOAD-BALANCER](https://github.com/Suke2004/load-balancer) | Build a smart adaptive load balancer with live dashboard | Go, JS |
+| `CLEAR!` | [GLOBAL-SSH-SERVER](https://github.com/Suke2004/Global-SSH-Server) | Turn an Android phone into a global SSH server | Termux, Cloudflare |
+| `CLEAR!` | [IMAGE-DEHAZER](https://github.com/Suke2004/image-dehazer) | Dehaze photos AND video in real time | Python, OpenCV |
+| `CLEAR!` | [SELF-DRIVING-VEHICLE](https://github.com/Suke2004/self-driving-vehicle) | Prototype an autonomous vehicle brain | C++ |
+
+</div>
+
+<br>
+
+<img src="assets/hdr-scores.svg" width="100%" alt="Stage 4 - High Scores" />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Suke2004/Suke2004/stats-output/stats.svg" height="150" alt="stats" />
+  <img src="https://raw.githubusercontent.com/Suke2004/Suke2004/languages-output/languages.svg" height="150" alt="languages" />
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td valign="top" width="50%">
-        <h4 align="center">Profile Summary</h4>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suke2004&theme=tokyonight" alt="Profile Details" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suke2004&theme=tokyonight" alt="Save file" width="100%" />
       </td>
       <td valign="top" width="50%">
-         <h4 align="center">Most Used Languages</h4>
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suke2004&theme=tokyonight" alt="Languages" width="100%" />
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suke2004&theme=tokyonight" alt="XP per language" width="100%" />
       </td>
     </tr>
   </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suke2004&theme=tokyo-night&hide_border=true" width="100%" alt="XP gain history" />
 </div>
 
-<h4 align="center">📅 Contribution History</h4>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suke2004&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
+<br>
 
----
-
-### 👾 Pac-Man Contribution Graph
+<img src="assets/hdr-bonus.svg" width="100%" alt="Bonus Stage - Pac-Man" />
 
 <p align="center">
   <picture>
@@ -77,19 +92,24 @@
   </picture>
 </p>
 
----
+<br>
 
-### 🏆 Trophies
+<img src="assets/hdr-trophy.svg" width="100%" alt="Stage 5 - Trophy Room" />
+
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=Suke2004&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Suke2004&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
----
+<br>
+
+<img src="assets/hdr-continue.svg" width="100%" alt="Final Stage - Continue?" />
+
+<img src="assets/continue.svg" width="100%" alt="Continue? Countdown from 9. Yes selected." />
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  
-
-
-  <img src="https://komarev.com/ghpvc/?username=Suke2004&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Suke2004&style=flat-square&color=00ff41&label=PLAYERS+VISITED" alt="Players visited" />
 </div>
+
+<br>
+
+<img src="assets/footer.svg" width="100%" alt="Game over - thanks for playing - (c) 2026 Suke2004" />
